@@ -10,13 +10,13 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tsvillain/Twitter-Bot/issues)
 [![MIT License](https://img.shields.io/github/license/tsvillain/Twitter-Bot.svg?style=flat-square)](https://github.com/tsvillain/Twitter-Bot/blob/master/LICENSE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/tsvillain/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/paritosh-tripathi-social/)
 
 ## 🚀&nbsp; Installation
 
 #### Clone the repo
 ```
-$ git clone https://github.com/tsvillain/Twitter-Bot.git
+$ git clone 
 ```
 
 #### Install tweepy Python module
