@@ -18,11 +18,6 @@
 ```
 $ git clone 
 ```
-
-#### Install tweepy Python module
-```
-$ 
-```
 ## :bulb: Working
 
 ### Sign up for a Twitter Developer Account
