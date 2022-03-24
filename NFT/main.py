@@ -27,7 +27,7 @@ api = tweepy.API(auth)
 keywords = ['#NFT','#Crypto']
 
 for i in keywords:
-    limit = 1000
+    limit = 5000
     tweets = tweepy.Cursor(api.search_tweets,
     q = keywords, count = 50,tweet_mode='extended').items(limit)
 
